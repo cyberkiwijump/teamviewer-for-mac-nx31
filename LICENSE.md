@@ -1,4 +1,4 @@
-# 
+# Enhance CrossOver for macOS with advanced CrossOver for macOS Plugin | USB-passthrough + resource-allocation, the #1 plugin. Includes USB-passthrough and resource-allocation for a
 
 
 
